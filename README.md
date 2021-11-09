@@ -6,7 +6,7 @@
 
 > Manideep Lenkalapally
 
-> Mohamad Sahil Sahil
+> Mohamad Sahil
 
 > Kuzi Rusere
 
