@@ -14,5 +14,5 @@
 ***Methodology:*** Data Mining, Analysis and Visualization of Retail Sales Data. This will be done mainly using Market Basket Analysis (MBA), which aims to find relationship and establishing pattens within the retail sales data or purchases. MBA looks for relationships or associations among entities and objects that frequently appear together (for example in a retail sales dataset), such as the collection of items in a shopper’s cart.
 
 ***Project Responsibility Allocation***
-[[DS-620-Data_Visualization/image.jpg |ALT TEXT]]
+<img src="DS-620-Data_Visualization/image.jpg">
 
